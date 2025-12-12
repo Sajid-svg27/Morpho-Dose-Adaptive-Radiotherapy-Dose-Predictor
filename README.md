@@ -48,9 +48,3 @@ Raw AI models often "play it safe" and under-estimate high-dose regions. Instead
 
 ---
 
-## 🚀 Installation & Usage
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/Sajid-svg27/Morpho-Dose.git](https://github.com/Sajid-svg27/Morpho-Dose.git)
-cd Morpho-Dose
